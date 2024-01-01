@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: webapp-diploma
-        image: evgenilistopad/webapp-diploma:v0.0.1
+        image: evgenilistopad/webapp-diploma
         ports:
         - containerPort: 80
